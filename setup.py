@@ -6,7 +6,7 @@ import os,io,sys
 from shutil import rmtree
 
 REQUIRES_PYTHON = '>=3.6.0'
-VERSION = '1.1.9'
+VERSION = '1.1.10'
 DESCRIPTION="A free and unlimited python tools for google translate api."
 NAME = "google_trans_new"
 # What packages are required for this module to be executed?
